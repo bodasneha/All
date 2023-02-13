@@ -1,0 +1,3 @@
+name : realme
+Version : 12.0
+Ram : 4 gb
