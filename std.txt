@@ -11,3 +11,5 @@ poojitha:90
 bindu:76
 sathwika:77
 ramya:80
+
+sony:100
